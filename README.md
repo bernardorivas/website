@@ -2,7 +2,6 @@
 
 This site is adapted from [Hugo Academic CV Template](https://github.com/HugoBlox/theme-academic-cv). 
 The original template provides tools for building an academic CV, listing publications, and managing content.
-
 It contains information about my research, teaching, etc.
 
 For reference, see:

@@ -36,7 +36,7 @@ featured: true
 links:
 - name: arxiv
   url: https://arxiv.org/abs/2412.11078
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2412.11078.pdf
 url_code: ''
 url_dataset: '#'
 url_poster: '#'

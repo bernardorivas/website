@@ -35,11 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on the rigorous study of nonlinear dynamical systems, with applications to robotics, machine learning, systems biology and gene regulatory networks. I develop combinatorial and topological frameworks grounded in Conley Index Theory to analyze complex dynamical systems.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I design algorithms to rigorously identify global dynamics in complex models, particularly focusing on:
+        - Computational topology for dynamical systems
+        - Combinatorial methods for gene regulatory networks
+        - Rigorous numerics of invariant manifolds
         
-        Please reach out to collaborate 😃
+        I'm interested in collaborations at the intersection of mathematics, computation, and biology. Feel free to reach out!
     design:
       columns: '1'
   - block: collection

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biological Networks | Bernardo Rivas</title>
+    <link>http://localhost:1313/tags/biological-networks/</link>
+      <atom:link href="http://localhost:1313/tags/biological-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biological Networks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Biological Networks</title>
+      <link>http://localhost:1313/tags/biological-networks/</link>
+    </image>
+    
+    <item>
+      <title>Combinatorial topological method for gene regulatory networks</title>
+      <link>http://localhost:1313/event/leiden-workshop/</link>
+      <pubDate>Thu, 01 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/leiden-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation introduces combinatorial topological methods for analyzing gene regulatory networks. The talk explores how these mathematical frameworks can be used to understand the complex dynamics of high-dimensional biological networks. The presentation focuses on rigorous computational approaches that combine combinatorial and topological techniques to identify global dynamics in gene regulatory systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

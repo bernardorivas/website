@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Bernardo Rivas</title>
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/event/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global dynamics in systems biology</title>
+      <link>http://localhost:1313/event/siam-ds25/</link>
+      <pubDate>Thu, 01 May 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/siam-ds25/</guid>
+      <description>&lt;p&gt;This talk presents recent advances in understanding global dynamics in systems biology using combinatorial and topological methods. The presentation focuses on applications of Conley Index Theory to gene regulatory networks and demonstrates how these mathematical frameworks can provide rigorous insights into complex biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational dynamics of gene regulatory networks</title>
+      <link>http://localhost:1313/event/dynamics-seminar/</link>
+      <pubDate>Tue, 01 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/dynamics-seminar/</guid>
+      <description>&lt;p&gt;This seminar presents computational approaches to studying the dynamics of gene regulatory networks. The talk explores how mathematical models and computational tools can be used to analyze and predict the behavior of complex biological systems, with a focus on rigorous methods for identifying global dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network dynamics via combinatorics, topology and homology</title>
+      <link>http://localhost:1313/event/ams-seminar/</link>
+      <pubDate>Sat, 01 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/ams-seminar/</guid>
+      <description>&lt;p&gt;This seminar explores the intersection of combinatorics, topology, and homology in the study of network dynamics. The presentation demonstrates how these mathematical frameworks can be combined to analyze complex networks, with applications to biological systems and gene regulatory networks. The talk highlights recent advances in using algebraic topological methods to understand the global behavior of dynamical systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical bounds for combinatorial topological dynamics</title>
+      <link>http://localhost:1313/event/montreal-workshop/</link>
+      <pubDate>Tue, 01 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/montreal-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation discusses analytical bounds for combinatorial topological dynamics, focusing on rigorous mathematical frameworks for understanding nonlinear dynamical systems. The talk explores how analytical techniques can be combined with combinatorial and topological methods to provide rigorous bounds on the behavior of complex systems, with applications to gene regulatory networks and other biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A computational framework for dynamics of genetic regulatory networks</title>
+      <link>http://localhost:1313/event/ams-eastern/</link>
+      <pubDate>Fri, 01 Mar 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/ams-eastern/</guid>
+      <description>&lt;p&gt;This presentation introduces a computational framework for analyzing the dynamics of genetic regulatory networks. The talk discusses how mathematical models and computational tools can be used to understand the complex behavior of gene regulatory systems, with a focus on rigorous methods for identifying global dynamics. The framework combines combinatorial, topological, and analytical approaches to provide insights into the behavior of biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial topological method for gene regulatory networks</title>
+      <link>http://localhost:1313/event/leiden-workshop/</link>
+      <pubDate>Thu, 01 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/leiden-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation introduces combinatorial topological methods for analyzing gene regulatory networks. The talk explores how these mathematical frameworks can be used to understand the complex dynamics of high-dimensional biological networks. The presentation focuses on rigorous computational approaches that combine combinatorial and topological techniques to identify global dynamics in gene regulatory systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rigorous numerics of invariant manifolds</title>
+      <link>http://localhost:1313/event/summer-meeting/</link>
+      <pubDate>Tue, 15 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/summer-meeting/</guid>
+      <description>&lt;p&gt;This presentation discusses rigorous numerical methods for studying invariant manifolds in dynamical systems. The talk explores computational approaches that provide mathematically rigorous results about the structure and properties of invariant manifolds in differential equations. The presentation highlights the importance of these techniques for understanding the global behavior of nonlinear dynamical systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

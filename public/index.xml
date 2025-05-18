@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernardo Rivas</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernardo Rivas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Bernardo Rivas</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>http://localhost:1313/teaching/experience/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/experience/</guid>
+      <description>&lt;h2 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h2&gt;
+&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Real Analysis&lt;/strong&gt; | Summer 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Math Reasoning&lt;/strong&gt; | Summer 2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elementary Differential Equations&lt;/strong&gt; | Summer 2022&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Real Analysis&lt;/strong&gt; | Spring 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Real Analysis&lt;/strong&gt; | Fall 2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Differential Equations for Engineering and Physics&lt;/strong&gt; | Spring 2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematical Theory of Statistics&lt;/strong&gt; | Fall 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Calculus for Engineering&lt;/strong&gt; | Fall 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Differential Equations for Engineering and Physics&lt;/strong&gt; | Spring 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculus I for the Mathematical and Physical Sciences&lt;/strong&gt; | Fall 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;universidade-de-são-paulo-icmc&#34;&gt;Universidade de São Paulo (ICMC)&lt;/h2&gt;
+&lt;h3 id=&#34;instructor-1&#34;&gt;Instructor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Minicourse on Differential Equations&lt;/strong&gt; | Winter 2019&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global dynamics in systems biology</title>
+      <link>http://localhost:1313/event/siam-ds25/</link>
+      <pubDate>Thu, 01 May 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/siam-ds25/</guid>
+      <description>&lt;p&gt;This talk presents recent advances in understanding global dynamics in systems biology using combinatorial and topological methods. The presentation focuses on applications of Conley Index Theory to gene regulatory networks and demonstrates how these mathematical frameworks can provide rigorous insights into complex biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational dynamics of gene regulatory networks</title>
+      <link>http://localhost:1313/event/dynamics-seminar/</link>
+      <pubDate>Tue, 01 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/dynamics-seminar/</guid>
+      <description>&lt;p&gt;This seminar presents computational approaches to studying the dynamics of gene regulatory networks. The talk explores how mathematical models and computational tools can be used to analyze and predict the behavior of complex biological systems, with a focus on rigorous methods for identifying global dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network dynamics via combinatorics, topology and homology</title>
+      <link>http://localhost:1313/event/ams-seminar/</link>
+      <pubDate>Sat, 01 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/ams-seminar/</guid>
+      <description>&lt;p&gt;This seminar explores the intersection of combinatorics, topology, and homology in the study of network dynamics. The presentation demonstrates how these mathematical frameworks can be combined to analyze complex networks, with applications to biological systems and gene regulatory networks. The talk highlights recent advances in using algebraic topological methods to understand the global behavior of dynamical systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Dynamics of Ordinary Differential Equations: Wall Labelings, Conley Complexes, and Ramp Systems</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical bounds for combinatorial topological dynamics</title>
+      <link>http://localhost:1313/event/montreal-workshop/</link>
+      <pubDate>Tue, 01 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/montreal-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation discusses analytical bounds for combinatorial topological dynamics, focusing on rigorous mathematical frameworks for understanding nonlinear dynamical systems. The talk explores how analytical techniques can be combined with combinatorial and topological methods to provide rigorous bounds on the behavior of complex systems, with applications to gene regulatory networks and other biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational framework for dynamics of genetic regulatory networks</title>
+      <link>http://localhost:1313/event/ams-eastern/</link>
+      <pubDate>Fri, 01 Mar 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/ams-eastern/</guid>
+      <description>&lt;p&gt;This presentation introduces a computational framework for analyzing the dynamics of genetic regulatory networks. The talk discusses how mathematical models and computational tools can be used to understand the complex behavior of gene regulatory systems, with a focus on rigorous methods for identifying global dynamics. The framework combines combinatorial, topological, and analytical approaches to provide insights into the behavior of biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial topological method for gene regulatory networks</title>
+      <link>http://localhost:1313/event/leiden-workshop/</link>
+      <pubDate>Thu, 01 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/leiden-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation introduces combinatorial topological methods for analyzing gene regulatory networks. The talk explores how these mathematical frameworks can be used to understand the complex dynamics of high-dimensional biological networks. The presentation focuses on rigorous computational approaches that combine combinatorial and topological techniques to identify global dynamics in gene regulatory systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rigorous numerics of invariant manifolds</title>
+      <link>http://localhost:1313/event/summer-meeting/</link>
+      <pubDate>Tue, 15 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/summer-meeting/</guid>
+      <description>&lt;p&gt;This presentation discusses rigorous numerical methods for studying invariant manifolds in dynamical systems. The talk explores computational approaches that provide mathematically rigorous results about the structure and properties of invariant manifolds in differential equations. The presentation highlights the importance of these techniques for understanding the global behavior of nonlinear dynamical systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;!-- ---
+title: &#39;An example conference paper&#39;
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - Robert Ford
+
+# Author notes (optional)
+author_notes:
+  - &#39;Equal contribution&#39;
+  - &#39;Equal contribution&#39;
+
+date: &#39;2013-07-01T00:00:00Z&#39;
+doi: &#39;&#39;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#39;2017-01-01T00:00:00Z&#39;
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: [&#39;paper-conference&#39;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+  - Large Language Models
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: &#39;&#39;
+url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
+url_dataset: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
+url_video: &#39;https://youtube.com&#39;
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page&#39;s folder.
+# image:
+#   caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)&#39;
+#   focal_point: &#39;&#39;
+#   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project&#39;s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck&#39;s filename without extension.
+#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: &#34;&#34;`.
+slides: example
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description>&lt;!-- ---
+title: &#34;An example journal article&#34;
+authors:
+- admin
+- Robert Ford
+author_notes:
+- &#34;Equal contribution&#34;
+- &#34;Equal contribution&#34;
+date: &#34;2015-09-01T00:00:00Z&#34;
+doi: &#34;&#34;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#34;2017-01-01T00:00:00Z&#34;
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: [&#34;article-journal&#34;]
+
+# Publication name and optional abbreviated publication name.
+publication: &#34;*Journal of Source Themes, 1*(1)&#34;
+publication_short: &#34;&#34;
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: &#34;&#34;
+#   url: &#34;&#34;
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;&#39;
+url_video: &#39;&#39;
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page&#39;s folder. 
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)&#39;
+  focal_point: &#34;&#34;
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project&#39;s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck&#39;s filename without extension.
+#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: &#34;&#34;`.
+slides: example
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/js/</guid>
+      <description>&lt;!-- ---
+title: Learn JavaScript
+summary: Easily learn JavaScript in 10 minutes!
+date: 2023-10-24
+type: docs
+math: false
+tags:
+  - JavaScript
+image:
+  caption: &#39;Embed rich media such as videos and LaTeX math&#39;
+---
+
+[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+
+**Embed videos, podcasts, code, LaTeX math, and even test students!**
+
+On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Hugo Blox.
+
+## Video
+
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+**Youtube**:
+
+    {{&lt; youtube w7Ft2ymGmfc &gt;}}
+
+**Bilibili**:
+
+    {{&lt; bilibili id=&#34;BV1WV4y1r7DF&#34; &gt;}}
+
+**Video file**
+
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page&#39;s folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+
+    {{&lt; video src=&#34;my_video.mp4&#34; controls=&#34;yes&#34; &gt;}}
+
+## Podcast
+
+You can add a podcast or music to a page by placing the MP3 file in the page&#39;s folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+
+    {{&lt; audio src=&#34;ambient-piano.mp3&#34; &gt;}}
+
+Try it out:
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+
+## Test students
+
+Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+
+```markdown
+{{&lt; spoiler text=&#34;👉 Click to view the solution&#34; &gt;}}
+You found me!
+{{&lt; /spoiler &gt;}}
+```
+
+renders as
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+
+## Math
+
+Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+
+To render _inline_ or _block_ math, wrap your LaTeX math with `{{&lt; math &gt;}}$...${{&lt; /math &gt;}}` or `{{&lt; math &gt;}}$$...$${{&lt; /math &gt;}}`, respectively.
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+
+Example **math block**:
+
+```latex
+{{&lt; math &gt;}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{&lt; /math &gt;}}
+```
+
+renders as
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+
+Example **inline math** `{{&lt; math &gt;}}$\nabla F(\mathbf{x}_{n})${{&lt; /math &gt;}}` renders as $\nabla F(\mathbf{x}_{n})$
+.
+
+Example **multi-line math** using the math linebreak (`\\`):
+
+```latex
+{{&lt; math &gt;}}
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
+{{&lt; /math &gt;}}
+```
+
+renders as
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+
+## Code
+
+Hugo Blox Builder utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv(&#34;data.csv&#34;)
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv(&#34;data.csv&#34;)
+data.head()
+```
+
+## Inline Images
+
+```go
+{{&lt; icon name=&#34;python&#34; &gt;}} Python
+```
+
+renders as
+
+
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python
+
+## Did you find this page helpful? Consider sharing it 🙌 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/python/</guid>
+      <description>&lt;!-- ---
+title: Learn Python
+summary: Easily learn Python in 10 minutes!
+date: 2023-10-24
+type: docs
+math: false
+tags:
+  - Python
+image:
+  caption: &#39;Embed rich media such as videos and LaTeX math&#39;
+---
+
+[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+
+**Embed videos, podcasts, code, LaTeX math, and even test students!**
+
+On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Hugo Blox.
+
+## Video
+
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+**Youtube**:
+
+    {{&lt; youtube w7Ft2ymGmfc &gt;}}
+
+**Bilibili**:
+
+    {{&lt; bilibili id=&#34;BV1WV4y1r7DF&#34; &gt;}}
+
+**Video file**
+
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page&#39;s folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+
+    {{&lt; video src=&#34;my_video.mp4&#34; controls=&#34;yes&#34; &gt;}}
+
+## Podcast
+
+You can add a podcast or music to a page by placing the MP3 file in the page&#39;s folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+
+    {{&lt; audio src=&#34;ambient-piano.mp3&#34; &gt;}}
+
+Try it out:
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+
+## Test students
+
+Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+
+```markdown
+{{&lt; spoiler text=&#34;👉 Click to view the solution&#34; &gt;}}
+You found me!
+{{&lt; /spoiler &gt;}}
+```
+
+renders as
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+
+## Math
+
+Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+
+To render _inline_ or _block_ math, wrap your LaTeX math with `{{&lt; math &gt;}}$...${{&lt; /math &gt;}}` or `{{&lt; math &gt;}}$$...$${{&lt; /math &gt;}}`, respectively.
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+
+Example **math block**:
+
+```latex
+{{&lt; math &gt;}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{&lt; /math &gt;}}
+```
+
+renders as
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+
+Example **inline math** `{{&lt; math &gt;}}$\nabla F(\mathbf{x}_{n})${{&lt; /math &gt;}}` renders as $\nabla F(\mathbf{x}_{n})$
+.
+
+Example **multi-line math** using the math linebreak (`\\`):
+
+```latex
+{{&lt; math &gt;}}
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
+{{&lt; /math &gt;}}
+```
+
+renders as
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+
+## Code
+
+Hugo Blox Builder utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv(&#34;data.csv&#34;)
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv(&#34;data.csv&#34;)
+data.head()
+```
+
+## Inline Images
+
+```go
+{{&lt; icon name=&#34;python&#34; &gt;}} Python
+```
+
+renders as
+
+
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python
+
+## Did you find this page helpful? Consider sharing it 🙌 --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/bernardorivas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/bernardorivas-math
+    url: https://www.linkedin.com/in/bernardorivas-math/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=qN522F4AAAAJ&hl=en
   - icon: academicons/arxiv

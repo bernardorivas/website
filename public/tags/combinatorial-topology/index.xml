@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Combinatorial Topology | Bernardo Rivas</title>
-    <link>http://localhost:1313/tags/combinatorial-topology/</link>
-      <atom:link href="http://localhost:1313/tags/combinatorial-topology/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:51193/tags/combinatorial-topology/</link>
+      <atom:link href="http://localhost:51193/tags/combinatorial-topology/index.xml" rel="self" type="application/rss+xml" />
     <description>Combinatorial Topology</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:51193/media/icon_hu7729264130191091259.png</url>
       <title>Combinatorial Topology</title>
-      <link>http://localhost:1313/tags/combinatorial-topology/</link>
+      <link>http://localhost:51193/tags/combinatorial-topology/</link>
     </image>
     
     <item>
       <title>Analytical bounds for combinatorial topological dynamics</title>
-      <link>http://localhost:1313/event/montreal-workshop/</link>
-      <pubDate>Tue, 01 Oct 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/montreal-workshop/</guid>
-      <description>&lt;p&gt;This workshop presentation discusses analytical bounds for combinatorial topological dynamics, focusing on rigorous mathematical frameworks for understanding nonlinear dynamical systems. The talk explores how analytical techniques can be combined with combinatorial and topological methods to provide rigorous bounds on the behavior of complex systems, with applications to gene regulatory networks and other biological systems.&lt;/p&gt;
+      <link>http://localhost:51193/talks/montreal-workshop/</link>
+      <pubDate>Mon, 07 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:51193/talks/montreal-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation discussed analytical bounds for combinatorial topological dynamics, focusing on rigorous mathematical frameworks for understanding nonlinear dynamical systems. The talk explored how analytical techniques can be combined with combinatorial and topological methods to provide rigorous bounds on the behavior of complex systems, with applications to gene regulatory networks and other biological systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Combinatorial topological method for gene regulatory networks</title>
-      <link>http://localhost:1313/event/leiden-workshop/</link>
-      <pubDate>Thu, 01 Jun 2023 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/leiden-workshop/</guid>
-      <description>&lt;p&gt;This workshop presentation introduces combinatorial topological methods for analyzing gene regulatory networks. The talk explores how these mathematical frameworks can be used to understand the complex dynamics of high-dimensional biological networks. The presentation focuses on rigorous computational approaches that combine combinatorial and topological techniques to identify global dynamics in gene regulatory systems.&lt;/p&gt;
+      <link>http://localhost:51193/talks/leiden-workshop/</link>
+      <pubDate>Mon, 23 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>http://localhost:51193/talks/leiden-workshop/</guid>
+      <description>&lt;p&gt;This workshop presentation introduced a combinatorial topological method for analyzing gene regulatory networks. The talk explored how these mathematical frameworks can be used to understand the complex dynamics of high-dimensional biological networks. The presentation focused on obtaining rigorous analytical bounds to identify dynamical structures.&lt;/p&gt;
 </description>
     </item>
     

@@ -44,10 +44,20 @@ profiles:
   - icon: academicons/arxiv
     url: https://arxiv.org/search/?searchtype=author&query=Rivas%2C+Bernardo
 
+# Contact Information (new section)
+contact_info:
+  - title: Office
+    value: "University Hall 1000" # Replace with your actual office number
+  - title: Office Hours
+    value: "Monday & Wednesday 2-4pm" # Replace with your actual office hours
+  - title: Email
+    value: "bernardo.dopradorivas@utoledo.edu"
+  - title: Phone
+    value: "(555) 123-4567" # Replace with your actual phone number
+
 interests:
-  - Dynamical Systems
+  - Hybrid Dynamical Systems
   - Computational Topology
-  - Hybrid Systems
   - Systems Biology
 
 education:
@@ -74,7 +84,7 @@ work:
     date_start: 2025-01-01
     date_end: ''
     summary: |2-
-      Research in dynamical systems and computational topology with applications to systems biology.
+      Research in dynamical systems and computational topology with applications to systems biology and robotics.
 
 visiting:
   - institution: University of Michigan
@@ -161,6 +171,6 @@ languages:
 
 ## About Me
 
-Bernardo Rivas is a postdoctoral fellow in mathematics at the University of Toledo. His research focuses on the rigorous study of nonlinear dynamical systems, with a particular interest in hybrid systems and gene regulatory networks. He develops combinatorial and topological frameworks grounded in Conley Index Theory, and designs algorithms to rigorously identify global dynamics in complex models.
+Bernardo Rivas is a postdoctoral fellow in mathematics at the University of Toledo. He completed his PhD at Rutgers University and holds MS and BS degrees in Mathematics from the Universidade de São Paulo (ICMC) in Brazil. His work bridges theoretical mathematics with computational methods to solve problems in hybrid settings, systems biology and dynamical systems.
 
-Bernardo completed his PhD at Rutgers University and holds MS and BS degrees in Mathematics from the Universidade de São Paulo (ICMC) in Brazil. His work bridges theoretical mathematics with computational methods to solve problems in systems biology and dynamical systems.
+Bernardo's research focuses on the rigorous study of nonlinear dynamical systems via computational topology. He is currently interested in extending the framework to hybrid dynamical systems, including applications in robotics and drug discovery. He develops combinatorial frameworks grounded in algebraic topological arguments to identify and characterize global dynamics in complex models.

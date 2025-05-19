@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Bernardo Rivas</title>
-    <link>http://localhost:1313/tags/teaching/</link>
-      <atom:link href="http://localhost:1313/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:65049/tags/teaching/</link>
+      <atom:link href="http://localhost:65049/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:65049/media/icon_hu7729264130191091259.png</url>
       <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
+      <link>http://localhost:65049/tags/teaching/</link>
     </image>
     
     <item>
       <title>Teaching Experience</title>
-      <link>http://localhost:1313/teaching/experience/</link>
+      <link>http://localhost:65049/teaching/experience/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/experience/</guid>
+      <guid>http://localhost:65049/teaching/experience/</guid>
       <description>&lt;h2 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h2&gt;
 &lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
 &lt;ul&gt;

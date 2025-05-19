@@ -13,17 +13,17 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'University of Toledo' 
+    description: 'Personal website of Bernardo Rivas.' # Personalized description
+    twitter: '' 
   analytics:
-    google_analytics: ''
+    google_analytics: '' 
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '' 
     baidu: ''
 
 # Site header
@@ -35,26 +35,28 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Bernardo Rivas"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Bernardo Rivas. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      # These are common Creative Commons settings (CC BY-NC-SA)
+      # Adjust as per your preference. See https://creativecommons.org/choose/
+      allow_derivatives: false # NoDerivatives = false, ShareAlike implies derivatives are allowed but must be shared under same terms
       share_alike: true
       allow_commercial: false
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Jan 2, 2006' # Default US date format
+  time_format: '3:04 PM'    # Default US time format
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true 
   privacy_pack:
-    enable: false
+    enable: false 

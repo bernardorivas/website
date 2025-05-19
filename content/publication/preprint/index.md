@@ -9,7 +9,7 @@ authors:
 - H. Kokubu
 - H. Oka
 date: "2024-12-15T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2412.11078"
+# doi: "https://doi.org/10.48550/arXiv.2412.11078"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-15T00:00:00Z"
@@ -36,14 +36,8 @@ featured: true
 links:
 - name: arxiv
   url: https://arxiv.org/abs/2412.11078
-url_pdf: https://arxiv.org/pdf/2412.11078.pdf
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: https://arxiv.org/pdf/2412.11078.pdf
+url_code: 'https://github.com/bernardorivas/phd-thesis-code'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
